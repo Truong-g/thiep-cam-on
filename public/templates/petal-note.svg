@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#fff8ef"/><stop offset="1" stop-color="#efdfe0"/></linearGradient>
+    <linearGradient id="rose" x2="0" y2="1"><stop stop-color="#f8cdd6"/><stop offset="1" stop-color="#b56d8a"/></linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="#e7d7dc"/><circle cx="715" cy="176" r="152" fill="#f8edf0" opacity=".7"/><path d="M0 822c177-60 343-99 512-45s267 95 388 50v273H0Z" fill="#d6bec7"/>
+  <g transform="rotate(-6 450 552)"><rect x="186" y="205" width="530" height="676" rx="10" fill="#6d5263" opacity=".18"/><rect x="168" y="185" width="530" height="676" rx="10" fill="url(#paper)"/><path d="M229 314h393M229 367h324M229 422h360" fill="none" stroke="#dfcfd1" stroke-width="5" stroke-linecap="round"/><path d="M229 531c84-33 167-22 251 0s100 27 150 3" fill="none" stroke="#c78a9a" stroke-width="7" stroke-linecap="round"/><path d="M228 593h364M228 645h342" fill="none" stroke="#dfcfd1" stroke-width="5" stroke-linecap="round"/><path d="M433 749c-47-38-94-82-55-119 37-34 69 7 75 22 14-24 48-48 75-17 35 40-34 89-95 126Z" fill="#d493a4"/></g>
+  <g fill="url(#rose)"><ellipse cx="104" cy="696" rx="25" ry="57" transform="rotate(-32 104 696)"/><ellipse cx="132" cy="714" rx="22" ry="53" transform="rotate(28 132 714)"/><ellipse cx="766" cy="787" rx="24" ry="59" transform="rotate(-31 766 787)"/><ellipse cx="798" cy="808" rx="19" ry="45" transform="rotate(29 798 808)"/></g>
+  <g fill="#fff7e9"><circle cx="106" cy="696" r="8"/><circle cx="766" cy="787" r="7"/></g>
+</svg>
